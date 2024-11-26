@@ -26,6 +26,8 @@ Technologies Used:
 - dotenv for managing environment variables.
 
 Observations:
-
 - Avoid Using Personal Accounts: It is strongly advised to refrain from using personal Telegram accounts for this purpose, as it may lead to account bans due to excessive or automated activity.
 - Extend Message Intervals: To reduce the risk of triggering spam detection, ensure that there is a sufficiently long interval between sending messages. The longer the delay, the lower the chance of being flagged.
+
+
+In the fist time that you run the script, you will be asked to enter your phone number and the code that will be sent to you.
