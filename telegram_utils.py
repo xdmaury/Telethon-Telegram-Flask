@@ -21,4 +21,3 @@ async def send_message(user_id, message):
 async def start():
     now = datetime.now()
     await send_message("me", f"{now} - API - started")
-    # await send_message(f"me", "{datetime.now()} - Bot started")
